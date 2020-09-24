@@ -1,5 +1,8 @@
 ## f-BRS: Rethinking Backpropagating Refinement for Interactive Segmentation [[Paper]](https://arxiv.org/abs/2001.10331) [[PyTorch]](https://github.com/saic-vul/fbrs_interactive_segmentation/tree/master) [[MXNet]](https://github.com/saic-vul/fbrs_interactive_segmentation/tree/mxnet) [[Video]](https://youtu.be/ArcZ5xtyMCk)
 
+## Previous repository as before, but demo_v2.py and App_v2.py scripts are new
+
+
 This repository provides code for training and testing state-of-the-art models for interactive segmentation with the official PyTorch implementation of the following paper:
 
 > **f-BRS: Rethinking Backpropagating Refinement for Interactive Segmentation**<br>
